@@ -3,4 +3,5 @@
 @import './core/reset.min.css';
 
 // Components
-@import "components/**/*";
+@import "./components/layouts/main-layout";
+@import "./components/layouts/main-sidebar";
